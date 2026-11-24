@@ -1,0 +1,67 @@
+[
+  {
+    "path": "App.tsx",
+    "file": {
+      "file_name": "/mnt/data/src/App.tsx",
+      "storage_handle": "",
+      "storage_type": "BASE64"
+    }
+  },
+  {
+    "path": "index.css",
+    "file": {
+      "file_name": "/mnt/data/.krabby/agentic_web_artifacts/agentic_artifact_219127229391/964220d992ed/index.css",
+      "storage_handle": "",
+      "storage_type": "BASE64",
+      "source_identifiers": [
+        {
+          "type": "message_id",
+          "value": "05044434-1b00-48ed-8bae-62c2e60e96e2"
+        },
+        {
+          "type": "message_id",
+          "value": "28430836-4702-4688-bf7b-64f302cf6ad5"
+        },
+        {
+          "type": "message_id",
+          "value": "2c866620-9554-4149-a8c0-cacea8b912b0"
+        },
+        {
+          "type": "message_id",
+          "value": "33adb3bb-6a3a-4b46-947c-f4f6671a29f5"
+        },
+        {
+          "type": "message_id",
+          "value": "41fd2758-5a12-4d02-a547-825cadf7b598"
+        },
+        {
+          "type": "message_id",
+          "value": "974a7240-ed9d-47da-a32f-d7c97ce22538"
+        },
+        {
+          "type": "message_id",
+          "value": "b03f56f6-fbb2-46b6-8906-a7630774160b"
+        },
+        {
+          "type": "message_id",
+          "value": "d7f76455-582b-412d-9476-7435d9c7f574"
+        },
+        {
+          "type": "message_id",
+          "value": "dc29be95-7772-4b15-8d68-02d01ac7b33a"
+        },
+        {
+          "type": "url",
+          "value": "https://www.h.metaaiusercontent.com/app/maiwa-p-af2607f8f8f6de9e55bf73fb1acd235e9f4914ca444a3464/actions"
+        }
+      ],
+      "source_tools": [
+        "container.build_react_artifact",
+        "container.create",
+        "container.create_web_artifact_agent_stateful",
+        "container.validate_react_artifact",
+        "p13n_tool.get_user_context"
+      ]
+    }
+  }
+]
